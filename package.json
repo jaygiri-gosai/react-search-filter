@@ -1,0 +1,34 @@
+{
+  "name": "react-search-filter",
+  "version": "1.0.0",
+  "description": "React code to build a simple search filter functionality to display a filtered list based on the search query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygiri-gosai/react-search-filter.git"
+  },
+  "keywords": [
+    "React",
+    "State",
+    "Array",
+    "Filter"
+  ],
+  "author": "Jay Gosai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygiri-gosai/react-search-filter/issues"
+  },
+  "homepage": "https://github.com/jaygiri-gosai/react-search-filter#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
