@@ -1,0 +1,8 @@
+.search-container {
+  text-align: center;
+  margin: auto;
+}
+.search-container > ul > li {
+  list-style: none;
+  line-height: 2rem;
+}
